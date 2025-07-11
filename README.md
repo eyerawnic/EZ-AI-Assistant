@@ -38,7 +38,7 @@ streamlit run frontend/app.py
 
 3. (Optional) Start backend API if separated.
 
-## 📐 Architecture
+##  Architecture
 - Document uploaded via Streamlit
 - Summarization & Q&A handled by LangChain + OpenAI/Llama
 - Responses include document-based justifications
