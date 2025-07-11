@@ -1,21 +1,21 @@
 # SmartAssistantGenAI
 
-## 📑 Overview
+##  Overview
 An AI-powered document-aware assistant for summarizing, querying, and reasoning over uploaded research papers or reports in PDF/TXT format.
 
-## 🚀 Features
+##  Features
 - PDF/TXT document upload
 - Auto summarization (≤150 words)
 - Free-form question answering with document-grounded justifications
 - 'Challenge Me' mode with 3 generated logic-based questions, answer validation, and reasoning
 - Snippet highlighting in answers (Bonus)
 
-## 📦 Tech Stack
+##  Tech Stack
 - Python (LangChain, PyPDF2, Transformers)
 - Streamlit (frontend)
 - FastAPI (backend API)
 
-## 📂 Project Structure
+##  Project Structure
 ```
 SmartAssistantGenAI/
 ├── backend/
@@ -25,7 +25,7 @@ SmartAssistantGenAI/
 ├── README.md
 ```
 
-## 📌 Setup Instructions
+##  Setup Instructions
 1. Install requirements:
 ```
 pip install -r requirements.txt
